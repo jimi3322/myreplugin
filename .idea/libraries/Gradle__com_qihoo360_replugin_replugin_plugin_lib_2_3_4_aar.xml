@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.qihoo360.replugin:replugin-plugin-lib:2.3.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/b82f6b00b47947401fa7f56d23efddbd485efb9b/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/b82f6b00b47947401fa7f56d23efddbd485efb9b/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.qihoo360.replugin/replugin-plugin-lib/2.3.4/169358d10cf64fbdc06558a8e958a1e75fa50a83/replugin-plugin-lib-2.3.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

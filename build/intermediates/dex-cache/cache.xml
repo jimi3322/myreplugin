@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\transforms\___ReClass___\debug\jars\1\10\6aacfa981dfd24c62728c8ab5d614693a2636e0a_41758116e1e687c87aceae0c212435c6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88965d57a81cf669d9ab7cf584f790bb936146a8">
+        <dex dex="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\pre-dexed\debug\6aacfa981dfd24c62728c8ab5d614693a2636e0a_41758116e1e687c87aceae0c212435c6_3af2d86b4bfbb35ab5ac742d4844d3c78b395e5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\transforms\___ReClass___\debug\jars\1\10\fa077d6e34201cfdfa2b0930a783300107dae96a_17820673ea2ef94a5c0d5f3089a6edbc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ece004e8ddf77f745b35b4de9a80d4a04a49239">
+        <dex dex="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\pre-dexed\debug\fa077d6e34201cfdfa2b0930a783300107dae96a_17820673ea2ef94a5c0d5f3089a6edbc_8452f5714fc308ad626a831a5d706a9044c71867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\transforms\___ReClass___\debug\jars\1\10\6738abfc550b54139bc467ec9555641ace348ee9_686292bb93f39b4c2a9378130da0229b.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3d625060691f838564e44465162aa830121b841">
+        <dex dex="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\pre-dexed\debug\6738abfc550b54139bc467ec9555641ace348ee9_686292bb93f39b4c2a9378130da0229b_e78047ac3c016b9296e454d02f53c388f8f97253.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\transforms\___ReClass___\debug\jars\1\10\8c4c5084628a694eea819f9e0bc2c935b65f3256_ccd2017b1480b57a1ac521eb99b520d6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0da1d2a31f1e4bc8d0462c43f93dc830c3156be">
+        <dex dex="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\pre-dexed\debug\8c4c5084628a694eea819f9e0bc2c935b65f3256_ccd2017b1480b57a1ac521eb99b520d6_06f20696a72ce7e39ff2a06c1fdd54f666a5f649.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\transforms\___ReClass___\debug\jars\1\10\a97fd7aeeb97e0c2ce6e57d2d978b7bbc9a2b36a_294683e391ec46f0aa5c2c9b2a615307.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4526f33af9ab022534a63d0ef6ced4ec0992713f">
+        <dex dex="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\pre-dexed\debug\a97fd7aeeb97e0c2ce6e57d2d978b7bbc9a2b36a_294683e391ec46f0aa5c2c9b2a615307_4df971094bee833e2edf2fa643843aa5c5bdd8d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\transforms\___ReClass___\debug\jars\1\10\9243941b65c24535c62b7bd08131fc80316ad132_f74bc657a80cbbb5ab442e628af63744.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="591f1c29dcc3df8ece2840fb2496f041902da5e7">
+        <dex dex="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\pre-dexed\debug\9243941b65c24535c62b7bd08131fc80316ad132_f74bc657a80cbbb5ab442e628af63744_0050214a0fac3e72a8e08ae2fdc56827bf49159f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\transforms\___ReClass___\debug\jars\1\10\5f511c714112ad486b040a1483eeeaca9ce35078_dde001784c009c64b2ff0e72da24f991.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="088fb9df60a5280ea2e30f9d2c9be5c8a0dc9ce2">
+        <dex dex="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\pre-dexed\debug\5f511c714112ad486b040a1483eeeaca9ce35078_dde001784c009c64b2ff0e72da24f991_8f4567f23467c9048870c25cdc87981f6ba53b23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\transforms\___ReClass___\debug\jars\1\10\bfe40c7bee86ef5ba5f61726bed53b4b97e6310f_2934e07713df7c44de75b8551d8d49e9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9fa2dfad497b1f9805a7e9f0b9f099308b16e0e">
+        <dex dex="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\pre-dexed\debug\bfe40c7bee86ef5ba5f61726bed53b4b97e6310f_2934e07713df7c44de75b8551d8d49e9_c2abd44e4d481d0ed013138fb05bff8463acced7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\app\libs\common-utils-lib-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a2e997e8847b1f9fdbaddea3a771ad806b4ffb1">
+        <dex dex="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\app\build\intermediates\pre-dexed\debug\common-utils-lib-1.0.0_6c833b36ff85d0679e9271f8aa5d3db5ebced51d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\transforms\___ReClass___\debug\jars\1\10\fab2dbb56d75f39e58d288bd14c69726eebb3a51_0d9adfd45518e1c71b582e79fea11e7b.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="896d865a0c79f94c60e2f13144130b45bb308b3b">
+        <dex dex="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\pre-dexed\debug\fab2dbb56d75f39e58d288bd14c69726eebb3a51_0d9adfd45518e1c71b582e79fea11e7b_7a2c085ba2f5653b6d7d21b0e5baa504d4626c2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\transforms\___ReClass___\debug\jars\1\10\00a790885d947ca2d9e16dabd8a0d435e9287d14_563a54ef1f0e04af342c41ae79b77251.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27147244996b5947c852499b008fea5ac649af9f">
+        <dex dex="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\pre-dexed\debug\00a790885d947ca2d9e16dabd8a0d435e9287d14_563a54ef1f0e04af342c41ae79b77251_deda4065aff7eae1622b19fa6efc99765e1e70ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\transforms\___ReClass___\debug\jars\1\10\910d1a5f023bbb5e99bcfdae67751d26494a13d0_8fcf0cc7caeebd16ae2ad2800ffaa02a.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4fcb136955410c85151a6f49c9ae7bc6b0154ecd">
+        <dex dex="E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\build\intermediates\pre-dexed\debug\910d1a5f023bbb5e99bcfdae67751d26494a13d0_8fcf0cc7caeebd16ae2ad2800ffaa02a_3b24175c1f782c0b5d8005c1327deb850c137d25.jar" />
+    </item>
+
+</items>

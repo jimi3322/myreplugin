@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a00ff31d3994a80f035892708904f758051cd36b\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a00ff31d3994a80f035892708904f758051cd36b\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a00ff31d3994a80f035892708904f758051cd36b\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a00ff31d3994a80f035892708904f758051cd36b\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
