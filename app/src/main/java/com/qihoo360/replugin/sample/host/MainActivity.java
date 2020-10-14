@@ -24,6 +24,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Looper;
+import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
 
@@ -75,10 +76,11 @@ public class MainActivity extends Activity {
             public void onClick(View v) {
                 // 若没有安装，则直接提示“错误”
                 // TODO 将来把回调串联上
-                if (RePlugin.isPluginInstalled("demo3")) {
-                    RePlugin.startActivity(MainActivity.this, RePlugin.createIntent("demo3", "com.qihoo360.replugin.sample.demo3.MainActivity"));
+                //!!!!此处注意使用的是包名还是别名pluginName: 'appdebug'  or  'com.example.myplugin'
+                if (RePlugin.isPluginInstalled("com.example.myplugin")) {
+                    RePlugin.startActivity(MainActivity.this, RePlugin.createIntent("com.example.myplugin", "com.example.myplugin.MainActivity"));
                 } else {
-                    Toast.makeText(MainActivity.this, "You must install demo3 first!", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, "You must install appdebug first!", Toast.LENGTH_SHORT).show();
                 }
             }
         });
@@ -154,9 +156,15 @@ public class MainActivity extends Activity {
         // 开始复制
         copyAssetsFileToAppFiles(demo3apkPath, demo3Apk);
         PluginInfo info = null;
+        boolean installResult = false;
+
         if (pluginFile.exists()) {
             info = RePlugin.install(pluginFilePath);
+            Log.i("plugin-FilePath",":"+pluginFilePath);
+            Log.i("plugin-isPluginInstall",":"+RePlugin.isPluginInstalled("com.example.myplugin"));
+            Log.i("plugin-Plugininfo",":"+info);
         }
+
 
         if (info != null) {
             RePlugin.startActivity(MainActivity.this, RePlugin.createIntent(info.getName(), "com.example.myplugin.MainActivity"));
