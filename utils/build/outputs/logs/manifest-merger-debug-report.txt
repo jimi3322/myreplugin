@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\utils\src\main\AndroidManifest.xml:17:1-20:12
+ADDED from E:\AndroidStudioProjects\myreplugin\utils\src\main\AndroidManifest.xml:17:1-20:12
 	package
-		ADDED from E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\utils\src\main\AndroidManifest.xml:18:5-49
-		INJECTED from E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\utils\src\main\AndroidManifest.xml
-		INJECTED from E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\utils\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\myreplugin\utils\src\main\AndroidManifest.xml:18:5-49
+		INJECTED from E:\AndroidStudioProjects\myreplugin\utils\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\myreplugin\utils\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\utils\src\main\AndroidManifest.xml
-		INJECTED from E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\utils\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\myreplugin\utils\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\myreplugin\utils\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\utils\src\main\AndroidManifest.xml:17:11-69
+		ADDED from E:\AndroidStudioProjects\myreplugin\utils\src\main\AndroidManifest.xml:17:11-69
 	android:versionCode
-		INJECTED from E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\utils\src\main\AndroidManifest.xml
-		INJECTED from E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\utils\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\myreplugin\utils\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\myreplugin\utils\src\main\AndroidManifest.xml
 application
-ADDED from E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\utils\src\main\AndroidManifest.xml:19:5-19
+ADDED from E:\AndroidStudioProjects\myreplugin\utils\src\main\AndroidManifest.xml:19:5-19
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\9a271c96eb9f0a4943550b3bc6bfe32ea3525bd5\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\97e038ab17d5052cc227be3d347f291997af3121\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\ca48cca9ddee9bd57b82303067e0250f094d9ae6\output\AndroidManifest.xml:29:5-20
@@ -22,7 +22,7 @@ MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\f49410eba0a79396b9184f2a57a55580e1b7b221\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\9ad1dd878f52ec974c5752601be31c1396d61567\output\AndroidManifest.xml:29:5-20
 uses-sdk
-INJECTED from E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\utils\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\AndroidStudioProjects\myreplugin\utils\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\9a271c96eb9f0a4943550b3bc6bfe32ea3525bd5\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\97e038ab17d5052cc227be3d347f291997af3121\output\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\ca48cca9ddee9bd57b82303067e0250f094d9ae6\output\AndroidManifest.xml:21:5-23:63
@@ -32,11 +32,11 @@ MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.
 	tools:overrideLibrary
 		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\9a271c96eb9f0a4943550b3bc6bfe32ea3525bd5\output\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		INJECTED from E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\utils\src\main\AndroidManifest.xml
-		INJECTED from E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\utils\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\myreplugin\utils\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\myreplugin\utils\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\utils\src\main\AndroidManifest.xml
-		INJECTED from E:\GitHubWorkspace\replugin\branches\master\replugin-sample\host\utils\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\myreplugin\utils\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\myreplugin\utils\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\9a271c96eb9f0a4943550b3bc6bfe32ea3525bd5\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\97e038ab17d5052cc227be3d347f291997af3121\output\AndroidManifest.xml:25:5-27:34

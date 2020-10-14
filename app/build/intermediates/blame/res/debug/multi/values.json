@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "E:\\AndroidStudioProjects\\myreplugin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -524,7 +524,7 @@
                     "endOffset": 2015
                 },
                 "from": {
-                    "file": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "E:\\AndroidStudioProjects\\myreplugin\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -543,7 +543,7 @@
                     "endOffset": 2062
                 },
                 "from": {
-                    "file": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "E:\\AndroidStudioProjects\\myreplugin\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -562,7 +562,7 @@
                     "endOffset": 2113
                 },
                 "from": {
-                    "file": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "E:\\AndroidStudioProjects\\myreplugin\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -4096,7 +4096,7 @@
                     "endOffset": 34637
                 },
                 "from": {
-                    "file": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\AndroidStudioProjects\\myreplugin\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -4115,7 +4115,7 @@
                     "endOffset": 34723
                 },
                 "from": {
-                    "file": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\AndroidStudioProjects\\myreplugin\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -4153,7 +4153,7 @@
                     "endOffset": 34834
                 },
                 "from": {
-                    "file": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\AndroidStudioProjects\\myreplugin\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -4172,7 +4172,7 @@
                     "endOffset": 34912
                 },
                 "from": {
-                    "file": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\AndroidStudioProjects\\myreplugin\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -4191,7 +4191,7 @@
                     "endOffset": 35003
                 },
                 "from": {
-                    "file": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\AndroidStudioProjects\\myreplugin\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -4210,7 +4210,7 @@
                     "endOffset": 35071
                 },
                 "from": {
-                    "file": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\AndroidStudioProjects\\myreplugin\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -4229,7 +4229,7 @@
                     "endOffset": 35131
                 },
                 "from": {
-                    "file": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\AndroidStudioProjects\\myreplugin\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -4344,7 +4344,7 @@
                     "endOffset": 35668
                 },
                 "from": {
-                    "file": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\AndroidStudioProjects\\myreplugin\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,

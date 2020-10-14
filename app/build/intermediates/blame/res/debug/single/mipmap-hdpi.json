@@ -1,14 +1,14 @@
 [
     {
-        "merged": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
-        "source": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "E:\\AndroidStudioProjects\\myreplugin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\myreplugin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
-        "source": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "E:\\AndroidStudioProjects\\myreplugin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\notification_out.png",
+        "source": "E:\\AndroidStudioProjects\\myreplugin\\app\\src\\main\\res\\mipmap-hdpi\\notification_out.png"
     },
     {
-        "merged": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\notification_out.png",
-        "source": "E:\\GitHubWorkspace\\replugin\\branches\\master\\replugin-sample\\host\\app\\src\\main\\res\\mipmap-hdpi\\notification_out.png"
+        "merged": "E:\\AndroidStudioProjects\\myreplugin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "E:\\AndroidStudioProjects\\myreplugin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     }
 ]

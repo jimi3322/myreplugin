@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: __local_jars__:E.\GitHubWorkspace\replugin\branches\master\replugin-sample\host\app\libs\common-utils-lib-1.0.0.jar:unspecified@jar">
+  <library name="Gradle: __local_jars__:E.\AndroidStudioProjects\myreplugin\app\libs\common-utils-lib-1.0.0.jar:unspecified@jar">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/app/libs/common-utils-lib-1.0.0.jar!/" />
     </CLASSES>

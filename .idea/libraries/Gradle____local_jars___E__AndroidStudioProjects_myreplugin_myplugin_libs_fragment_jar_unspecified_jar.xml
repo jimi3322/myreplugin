@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: __local_jars__:E.\GitHubWorkspace\replugin\branches\master\replugin-sample\host\myplugin\libs\fragment.jar:unspecified@jar">
+  <library name="Gradle: __local_jars__:E.\AndroidStudioProjects\myreplugin\myplugin\libs\fragment.jar:unspecified@jar">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/myplugin/libs/fragment.jar!/" />
     </CLASSES>
